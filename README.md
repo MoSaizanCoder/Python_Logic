@@ -31,6 +31,25 @@ A fully functional Command Line Interface (CLI) Ludo game engine.
   - 🎲 **Game Logic:** Random Dice generation, Exact winning condition, and Turn management.
   - ✅ **Error Handling:** Robust handling for invalid inputs (strings vs integers).
 
+### 4. Tic-Tac-Toe (Zero-Kaata)
+A classic 2-player strategy game.
+- **Concepts Used:** Arrays (Lists), Indexing, Game Loop, Complex Conditions.
+- **Features:**
+  - ❌⭕ **Multiplayer:** Alternating turns between 'X' and 'O'.
+  - 🏆 **Winning Logic:** Checks all 8 winning combinations (Rows, Columns, Diagonals).
+  - 🤝 **Draw Detection:** Smartly identifies when the board is full with no winner.
+  - 🛡️ **Input Validation:** Prevents overwriting occupied spots and handles invalid inputs.
+
+### 5. Browser History Simulation (Stack)
+A simulation of a web browser's navigation system using Data Structures.
+- **Concepts Used:** Stack Data Structure (LIFO - Last In, First Out).
+- **Features:**
+  - 🌐 **Navigation:** Visit new pages and store them in history.
+  - 🔙 **Back Feature:** Navigate to previous pages using `pop()` logic.
+  - 🛡️ **Crash Prevention:** Handles empty history errors gracefully.
+
+---
+
 ## 🛠️ Tech Stack
 - **Language:** Python 3.x
 - **Tools:** VS Code, Git & GitHub
