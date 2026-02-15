@@ -22,8 +22,14 @@ Implementation of logic-based mini-games to strengthen coding foundations:
 
 ---
 
-## 🚀 Upcoming Project (In Progress)
-- **Text-Based Ludo Game:** A CLI-based Ludo game involving complex logic like token movement, cutting rules, and safe zones using Lists and Nested Loops.
+### 3. Advanced Ludo Game (CLI)
+A fully functional Command Line Interface (CLI) Ludo game engine.
+- **Features:**
+  - 🎮 **Multiplayer Support:** Play with 2 to 4 players.
+  - 🤖 **PvC Mode:** Play against the Computer (CPU Logic included).
+  - 🐍 **Snakes & Ladders:** Implemented using Python Dictionaries.
+  - 🎲 **Game Logic:** Random Dice generation, Exact winning condition, and Turn management.
+  - ✅ **Error Handling:** Robust handling for invalid inputs (strings vs integers).
 
 ## 🛠️ Tech Stack
 - **Language:** Python 3.x
